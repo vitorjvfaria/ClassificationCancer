@@ -2,7 +2,7 @@
 
 This project aimed the detection of breast cancer using the [Breast Cancer Wisconsin (Original) Data Set](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29).
 
-Followed steps:
+Main steps:
  > 1. Data cleansing
  > > - Correction missing values
  > 2. Data visualization and analysis

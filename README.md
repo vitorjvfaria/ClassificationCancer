@@ -4,7 +4,7 @@ This project aimed the detection of breast cancer using the [Breast Cancer Wisco
 
 Main steps:
  > 1. Data cleansing
- > > - Correction missing values
+ > > - Correction of missing values
  > 2. Data visualization and analysis
  > > - Principal Component Analysis (PCA) for data visualization
  > 3. Model selection with hyperparameters tuning
